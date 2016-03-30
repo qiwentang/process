@@ -1,2 +1,3 @@
 This is a version controll system
-Git is a free software
+HH,Git is a free software
+Please use it
